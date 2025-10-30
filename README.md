@@ -4,5 +4,4 @@
 - Ryu
 - Alex from Street Fighter III
 - Frog Brothers from Lost Boys
-- Goku
 - Raphael TMNT
